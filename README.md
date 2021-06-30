@@ -1,0 +1,2 @@
+A web app which facilitates the user to submit their secrets with complete anonymity. 
+The user is allowed to login either locally or via third party apps such as google and facebook, which is implemented using passport.js (OAuth 2.0 authentication strategy). By plugging into Passport, Google or facebook authentication can be easily and unobtrusively integrated into any application or framework.  
